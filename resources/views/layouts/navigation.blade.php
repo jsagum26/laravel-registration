@@ -3,7 +3,7 @@
         <li class="nav-item">
             <a class="nav-link" href="{{ route('dashboard') }}">
                 <i class="bi bi-grid"></i>
-                <span>{{ __('Dashboard') }}</span>
+                <span>{{ __('Profile') }}</span>
             </a>
         </li>
 
